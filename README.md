@@ -10,12 +10,16 @@ Run `npm run dev` for a dev server. Navigate to `http://localhost:4200/`. The ap
 
 **Login Page**
 ![login Screenshot](./src/assets/login.png)
+
 **Home Page**
 ![home Screenshot](./src/assets//home.png)
+
 **Profile Page**
 ![profile Screenshot](./src/assets/profile.png)
+
 **Edit Recipe Page**
 ![edit recipe Screenshot](./src/assets/edit-recipe.png)
+
 **Add Recipe Page**
 ![add recipe Screenshot](./src/assets/add-recipe.png)
 
