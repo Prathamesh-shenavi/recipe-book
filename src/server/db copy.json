@@ -1,0 +1,669 @@
+{
+  "recipes": [
+    {
+      "title": "Spaghetti Carbonara",
+      "author": "user 1",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces spaghetti",
+        "2 large eggs",
+        "1/2 cup grated Parmesan cheese",
+        "4 ounces pancetta or bacon, diced",
+        "2 cloves garlic, minced",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh parsley, for garnish (optional)"
+      ],
+      "instructions": [
+        "In a large pot of boiling salted water, cook spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a small bowl, whisk together eggs and Parmesan; set aside.",
+        "Heat a large skillet over medium heat. Add pancetta and cook until brown and crispy, about 5-7 minutes. Add garlic and cook until fragrant, about 1 minute.",
+        "Reduce heat to low. Add cooked spaghetti to the skillet and quickly toss to combine. Remove from heat and slowly whisk in egg mixture, stirring constantly to prevent scrambling. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with chopped parsley if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4713"
+    },
+    {
+      "title": "Pizza",
+      "author": "manish",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces spaghetti",
+        "2 large eggs",
+        "1/2 cup grated Parmesan cheese",
+        "4 ounces pancetta or bacon, diced",
+        "2 cloves garlic, minced",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh parsley, for garnish (optional)"
+      ],
+      "instructions": [
+        "In a large pot of boiling salted water, cook spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a small bowl, whisk together eggs and Parmesan; set aside.",
+        "Heat a large skillet over medium heat. Add pancetta and cook until brown and crispy, about 5-7 minutes. Add garlic and cook until fragrant, about 1 minute.",
+        "Reduce heat to low. Add cooked spaghetti to the skillet and quickly toss to combine. Remove from heat and slowly whisk in egg mixture, stirring constantly to prevent scrambling. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with chopped parsley if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "47133"
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "author": "Alice Smith",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces spaghetti",
+        "2 large eggs",
+        "1/2 cup grated Parmesan cheese",
+        "4 ounces pancetta or bacon, diced",
+        "2 cloves garlic, minced",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh parsley, for garnish (optional)"
+      ],
+      "instructions": [
+        "In a large pot of boiling salted water, cook spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a small bowl, whisk together eggs and Parmesan; set aside.",
+        "Heat a large skillet over medium heat. Add pancetta and cook until brown and crispy, about 5-7 minutes. Add garlic and cook until fragrant, about 1 minute.",
+        "Reduce heat to low. Add cooked spaghetti to the skillet and quickly toss to combine. Remove from heat and slowly whisk in egg mixture, stirring constantly to prevent scrambling. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with chopped parsley if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4713"
+    },
+    {
+      "title": "Pesto Pasta",
+      "author": "Giovanni Rossi",
+      "description": "A flavorful pasta dish made with basil pesto, pine nuts, and Parmesan cheese.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces pasta (such as spaghetti or linguine)",
+        "2 cups fresh basil leaves",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 cup pine nuts, toasted",
+        "2 cloves garlic",
+        "1/2 cup extra-virgin olive oil",
+        "Salt and freshly ground black pepper, to taste"
+      ],
+      "instructions": [
+        "In a food processor, combine basil, Parmesan, pine nuts, and garlic. Pulse until finely chopped.",
+        "With the processor running, slowly add olive oil until well combined and smooth. Season with salt and pepper to taste.",
+        "Cook pasta according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, toss cooked pasta with pesto sauce until evenly coated. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Serve immediately, garnished with additional Parmesan cheese and pine nuts if desired."
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4714"
+    },
+    {
+      "title": "Chicken Alfredo",
+      "author": "Emily Nguyen",
+      "description": "A creamy pasta dish with tender chicken and a rich Alfredo sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces fettuccine pasta",
+        "2 boneless, skinless chicken breasts, cut into bite-sized pieces",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh parsley, for garnish (optional)"
+      ],
+      "instructions": [
+        "Cook fettuccine according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium-high heat. Add chicken pieces and cook until golden brown and cooked through, about 5-7 minutes. Add garlic and cook until fragrant, about 1 minute.",
+        "Reduce heat to medium-low. Stir in heavy cream and Parmesan cheese, stirring constantly until cheese is melted and sauce is smooth. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Toss cooked pasta with the Alfredo sauce until evenly coated.",
+        "Serve immediately, garnished with chopped parsley if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4715"
+    },
+    {
+      "title": "Lasagna",
+      "author": "Luca Russo",
+      "description": "A classic Italian baked pasta dish with layers of pasta, meat sauce, and cheese.",
+      "category": "Pasta",
+      "ingredients": [
+        "1 pound ground beef",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 (28 ounce) can crushed tomatoes",
+        "1 (6 ounce) can tomato paste",
+        "1/4 cup chopped fresh parsley",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "Salt and freshly ground black pepper, to taste",
+        "12 lasagna noodles",
+        "16 ounces ricotta cheese",
+        "1 egg",
+        "3 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "In a large skillet, cook ground beef, onion, and garlic over medium heat until meat is browned and cooked through. Drain excess fat.",
+        "Stir in crushed tomatoes, tomato paste, parsley, basil, oregano, salt, and pepper. Simmer for 10 minutes, stirring occasionally.",
+        "In a medium bowl, mix together ricotta cheese and egg until well combined.",
+        "Spread a thin layer of meat sauce on the bottom of a 9x13-inch baking dish. Place a layer of lasagna noodles on top, followed by a layer of ricotta mixture, mozzarella cheese, and meat sauce. Repeat layers until all ingredients are used, ending with a layer of meat sauce on top.",
+        "Cover with aluminum foil and bake for 25 minutes. Remove foil and sprinkle Parmesan cheese on top. Bake uncovered for an additional 25 minutes, or until cheese is bubbly and golden brown.",
+        "Let lasagna cool for 10 minutes before serving. Garnish with chopped parsley if desired."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "50 minutes",
+      "total_time": "1 hour 10 minutes",
+      "servings": 8,
+      "id": "4716"
+    },
+    {
+      "title": "Lemon Garlic Shrimp Pasta",
+      "author": "Sophia Patel",
+      "description": "A refreshing pasta dish with succulent shrimp, tangy lemon, and aromatic garlic.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces linguine pasta",
+        "1 pound large shrimp, peeled and deveined",
+        "2 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1/4 teaspoon red pepper flakes",
+        "Zest and juice of 1 lemon",
+        "1/2 cup chopped fresh parsley",
+        "Salt and freshly ground black pepper, to taste",
+        "Grated Parmesan cheese, for serving"
+      ],
+      "instructions": [
+        "Cook linguine according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium-high heat. Add shrimp and cook until pink and opaque, about 2-3 minutes per side. Remove shrimp from skillet and set aside.",
+        "In the same skillet, add garlic and red pepper flakes. Cook until garlic is fragrant, about 1 minute.",
+        "Return cooked shrimp to the skillet. Add lemon zest, lemon juice, and chopped parsley. Toss to combine.",
+        "Add cooked linguine to the skillet and toss until evenly coated. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with grated Parmesan cheese."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4717"
+    },
+    {
+      "title": "Baked Ziti",
+      "author": "Matteo De Luca",
+      "description": "A comforting baked pasta dish with ziti, marinara sauce, and melted cheese.",
+      "category": "Pasta",
+      "ingredients": [
+        "1 pound ziti pasta",
+        "2 cups marinara sauce",
+        "1 cup ricotta cheese",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "2 tablespoons chopped fresh basil",
+        "Salt and freshly ground black pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "Cook ziti according to package instructions until al dente. Drain well.",
+        "In a large mixing bowl, combine cooked ziti, marinara sauce, ricotta cheese, mozzarella cheese, Parmesan cheese, and chopped basil. Season with salt and pepper to taste. Mix until well combined.",
+        "Transfer mixture to a greased 9x13-inch baking dish. Spread evenly.",
+        "Cover with aluminum foil and bake for 20 minutes.",
+        "Remove foil and bake for an additional 10 minutes, or until cheese is melted and bubbly.",
+        "Let baked ziti cool for a few minutes before serving. Garnish with additional chopped basil if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "40 minutes",
+      "servings": 6,
+      "id": "4718"
+    },
+    {
+      "title": "Fettuccine Alfredo",
+      "author": "Olivia Johnson",
+      "description": "A creamy and indulgent pasta dish with fettuccine noodles and Alfredo sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces fettuccine pasta",
+        "1/2 cup unsalted butter",
+        "2 cloves garlic, minced",
+        "2 cups heavy cream",
+        "1 1/2 cups grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh parsley, for garnish (optional)"
+      ],
+      "instructions": [
+        "Cook fettuccine according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+        "Slowly pour in heavy cream, stirring constantly. Bring to a simmer and cook until slightly thickened, about 5 minutes.",
+        "Gradually add grated Parmesan cheese, stirring until melted and smooth.",
+        "Add cooked fettuccine to the skillet and toss until evenly coated with the Alfredo sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with chopped parsley if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4719"
+    },
+    {
+      "title": "Spinach and Ricotta Stuffed Shells",
+      "author": "Marco Ferrari",
+      "description": "Jumbo pasta shells filled with a creamy spinach and ricotta mixture, baked in marinara sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "24 jumbo pasta shells",
+        "2 cups ricotta cheese",
+        "1 cup grated Parmesan cheese",
+        "1 cup chopped spinach, cooked and squeezed dry",
+        "1 egg",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon dried basil",
+        "1/2 teaspoon dried oregano",
+        "Salt and freshly ground black pepper, to taste",
+        "2 cups marinara sauce",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "Cook jumbo pasta shells according to package instructions until al dente. Drain well and set aside.",
+        "In a large mixing bowl, combine ricotta cheese, Parmesan cheese, chopped spinach, egg, garlic powder, basil, oregano, salt, and pepper. Mix until well combined.",
+        "Spread marinara sauce evenly in the bottom of a greased 9x13-inch baking dish.",
+        "Stuff each cooked pasta shell with the spinach and ricotta mixture. Arrange stuffed shells in the baking dish.",
+        "Sprinkle shredded mozzarella cheese on top of the stuffed shells.",
+        "Cover with aluminum foil and bake for 25 minutes.",
+        "Remove foil and bake for an additional 10 minutes, or until cheese is melted and bubbly.",
+        "Let stuffed shells cool for a few minutes before serving."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "55 minutes",
+      "servings": 6,
+      "id": "4720"
+    },
+    {
+      "title": "Spaghetti Aglio e Olio",
+      "author": "Isabella Costa",
+      "description": "A simple yet flavorful pasta dish with garlic, olive oil, and red pepper flakes.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces spaghetti",
+        "1/4 cup extra-virgin olive oil",
+        "4 cloves garlic, thinly sliced",
+        "1/2 teaspoon red pepper flakes",
+        "Salt, to taste",
+        "Chopped fresh parsley, for garnish (optional)"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium heat. Add sliced garlic and cook until lightly golden, about 2-3 minutes.",
+        "Add red pepper flakes and cook for an additional 1 minute.",
+        "Add cooked spaghetti to the skillet and toss until evenly coated with the garlic-infused olive oil. If the pasta seems dry, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt to taste. Serve immediately, garnished with chopped parsley if desired."
+      ],
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "servings": 2,
+      "id": "4721"
+    },
+    {
+      "title": "Ravioli with Sage Butter Sauce",
+      "author": "Antonio Gonzalez",
+      "description": "Delicate ravioli pasta served with a rich sage-infused butter sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "1 pound cheese or meat ravioli",
+        "6 tablespoons unsalted butter",
+        "10 fresh sage leaves",
+        "1/4 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste"
+      ],
+      "instructions": [
+        "Cook ravioli according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, melt butter over medium heat. Add sage leaves and cook until butter is golden brown and fragrant, about 3-4 minutes.",
+        "Add cooked ravioli to the skillet and gently toss to coat with the sage butter sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with grated Parmesan cheese."
+      ],
+      "prep_time": "5 minutes",
+      "cook_time": "10 minutes",
+      "total_time": "15 minutes",
+      "servings": 4,
+      "id": "4722"
+    },
+    {
+      "title": "Penne alla Vodka",
+      "author": "Mia Martinez",
+      "description": "A creamy and decadent pasta dish with penne pasta and a vodka-infused tomato cream sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces penne pasta",
+        "2 tablespoons unsalted butter",
+        "1/4 cup chopped onion",
+        "2 cloves garlic, minced",
+        "1/2 cup vodka",
+        "1 cup crushed tomatoes",
+        "1/2 cup heavy cream",
+        "1/4 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh basil, for garnish (optional)"
+      ],
+      "instructions": [
+        "Cook penne pasta according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, melt butter over medium heat. Add chopped onion and cook until softened, about 3-4 minutes. Add minced garlic and cook until fragrant, about 1 minute.",
+        "Add vodka to the skillet and simmer until reduced by half, about 2-3 minutes.",
+        "Stir in crushed tomatoes and heavy cream. Bring to a simmer and cook until sauce is slightly thickened, about 5 minutes.",
+        "Add cooked penne pasta to the skillet and toss until evenly coated with the vodka tomato cream sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Stir in grated Parmesan cheese and season with salt and pepper to taste. Serve immediately, garnished with chopped fresh basil if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4723"
+    },
+    {
+      "title": "Linguine with Clam Sauce",
+      "author": "Lorenzo Bianchi",
+      "description": "A classic Italian pasta dish with linguine noodles and a savory clam sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces linguine pasta",
+        "2 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1/2 teaspoon red pepper flakes",
+        "2 (6.5 ounce) cans chopped clams, drained, juice reserved",
+        "1/2 cup dry white wine",
+        "1/4 cup chopped fresh parsley",
+        "Salt and freshly ground black pepper, to taste",
+        "Grated Parmesan cheese, for serving"
+      ],
+      "instructions": [
+        "Cook linguine according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium heat. Add minced garlic and red pepper flakes. Cook until garlic is fragrant, about 1 minute.",
+        "Add chopped clams to the skillet and cook for 2-3 minutes.",
+        "Pour in white wine and clam juice. Bring to a simmer and cook for an additional 5 minutes.",
+        "Add cooked linguine to the skillet and toss until evenly coated with the clam sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Stir in chopped parsley and season with salt and pepper to taste. Serve immediately, garnished with grated Parmesan cheese."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4724"
+    },
+    {
+      "title": "Shrimp Scampi",
+      "author": "Lily Kim",
+      "description": "A quick and easy pasta dish with succulent shrimp in a garlic butter sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces linguine pasta",
+        "1 pound large shrimp, peeled and deveined",
+        "4 tablespoons unsalted butter",
+        "4 cloves garlic, minced",
+        "1/4 cup dry white wine",
+        "Juice of 1 lemon",
+        "2 tablespoons chopped fresh parsley",
+        "Salt and freshly ground black pepper, to taste"
+      ],
+      "instructions": [
+        "Cook linguine according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+        "Add shrimp to the skillet and cook until pink and opaque, about 2-3 minutes per side.",
+        "Pour in white wine and lemon juice. Bring to a simmer and cook for an additional 2 minutes.",
+        "Add cooked linguine to the skillet and toss until evenly coated with the garlic butter sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Stir in chopped parsley and season with salt and pepper to taste. Serve immediately."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4725"
+    },
+    {
+      "title": "Rigatoni with Sausage and Peppers",
+      "author": "Alessandro Moretti",
+      "description": "A hearty pasta dish with rigatoni, Italian sausage, bell peppers, and onions.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces rigatoni pasta",
+        "1 pound Italian sausage, casings removed",
+        "1 onion, thinly sliced",
+        "1 red bell pepper, thinly sliced",
+        "1 yellow bell pepper, thinly sliced",
+        "1/2 cup chicken broth",
+        "1/4 cup chopped fresh parsley",
+        "Salt and freshly ground black pepper, to taste",
+        "Grated Parmesan cheese, for serving"
+      ],
+      "instructions": [
+        "Cook rigatoni according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, cook Italian sausage over medium-high heat until browned and cooked through, breaking it up into crumbles with a spoon. Drain excess fat.",
+        "Add sliced onion and bell peppers to the skillet. Cook until vegetables are softened, about 5-7 minutes.",
+        "Pour in chicken broth and bring to a simmer. Cook for an additional 2-3 minutes.",
+        "Add cooked rigatoni to the skillet and toss until evenly coated with the sausage and pepper mixture. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Stir in chopped parsley and season with salt and pepper to taste. Serve immediately, garnished with grated Parmesan cheese."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes",
+      "total_time": "30 minutes",
+      "servings": 4,
+      "id": "4726"
+    },
+    {
+      "title": "Pasta Primavera",
+      "author": "Chloe Wilson",
+      "description": "A colorful pasta dish with fresh spring vegetables and a light cream sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces fettuccine pasta",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup sliced bell peppers",
+        "1/2 cup sliced carrots",
+        "1/2 cup sliced zucchini",
+        "1/2 cup sliced yellow squash",
+        "1/2 cup green peas",
+        "1/2 cup heavy cream",
+        "1/4 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh basil, for garnish (optional)"
+      ],
+      "instructions": [
+        "Cook fettuccine according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+        "Add cherry tomatoes, bell peppers, carrots, zucchini, yellow squash, and green peas to the skillet. Cook until vegetables are tender, about 5-7 minutes.",
+        "Stir in heavy cream and grated Parmesan cheese. Bring to a simmer and cook until sauce is slightly thickened, about 3-4 minutes.",
+        "Add cooked fettuccine to the skillet and toss until evenly coated with the cream sauce and vegetables. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with chopped fresh basil if desired."
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "30 minutes",
+      "servings": 4,
+      "id": "4727"
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "author": "Diego Hernandez",
+      "description": "A classic comfort food dish with macaroni pasta and a creamy cheese sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces elbow macaroni pasta",
+        "2 tablespoons unsalted butter",
+        "2 tablespoons all-purpose flour",
+        "1 1/2 cups whole milk",
+        "2 cups shredded sharp cheddar cheese",
+        "Salt and freshly ground black pepper, to taste"
+      ],
+      "instructions": [
+        "Cook macaroni pasta according to package instructions until al dente. Drain well and set aside.",
+        "In a large saucepan, melt butter over medium heat. Add flour and whisk until smooth.",
+        "Gradually pour in milk, whisking constantly until mixture is smooth and thickened.",
+        "Stir in shredded cheddar cheese until melted and smooth. Season with salt and pepper to taste.",
+        "Add cooked macaroni to the cheese sauce and stir until evenly coated.",
+        "Serve immediately, garnished with additional shredded cheese if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4728"
+    },
+    {
+      "title": "Penne all'Arrabbiata",
+      "author": "Emma Brown",
+      "description": "A spicy and flavorful pasta dish with penne noodles in a fiery tomato sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces penne pasta",
+        "2 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1/2 teaspoon red pepper flakes",
+        "1 (14.5 ounce) can crushed tomatoes",
+        "2 tablespoons chopped fresh parsley",
+        "Salt and freshly ground black pepper, to taste",
+        "Grated Parmesan cheese, for serving"
+      ],
+      "instructions": [
+        "Cook penne according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium heat. Add minced garlic and red pepper flakes. Cook until garlic is fragrant, about 1 minute.",
+        "Stir in crushed tomatoes and chopped parsley. Bring to a simmer and cook for 10 minutes, stirring occasionally.",
+        "Add cooked penne to the skillet and toss until evenly coated with the spicy tomato sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with grated Parmesan cheese."
+      ],
+      "prep_time": "5 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "20 minutes",
+      "servings": 4,
+      "id": "4729"
+    },
+    {
+      "title": "Pasta with Tomato Basil Sauce",
+      "author": "Giuseppe Esposito",
+      "description": "A simple and delicious pasta dish with a homemade tomato basil sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces spaghetti",
+        "2 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1 (28 ounce) can crushed tomatoes",
+        "1/4 cup chopped fresh basil",
+        "Salt and freshly ground black pepper, to taste",
+        "Grated Parmesan cheese, for serving"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant, about 1 minute.",
+        "Stir in crushed tomatoes and chopped basil. Bring to a simmer and cook for 10 minutes, stirring occasionally.",
+        "Add cooked spaghetti to the skillet and toss until evenly coated with the tomato basil sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with grated Parmesan cheese."
+      ],
+      "prep_time": "5 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "20 minutes",
+      "servings": 4,
+      "id": "4730"
+    },
+    {
+      "title": "Pasta with Mushroom Cream Sauce",
+      "author": "Grace Lee",
+      "description": "A creamy pasta dish with tender mushrooms in a rich and flavorful cream sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces fettuccine pasta",
+        "2 tablespoons unsalted butter",
+        "8 ounces mushrooms, sliced",
+        "2 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "Chopped fresh parsley, for garnish (optional)"
+      ],
+      "instructions": [
+        "Cook fettuccine according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, melt butter over medium heat. Add sliced mushrooms and cook until softened, about 5-7 minutes.",
+        "Add minced garlic to the skillet and cook until fragrant, about 1 minute.",
+        "Stir in heavy cream and grated Parmesan cheese. Bring to a simmer and cook until sauce is slightly thickened, about 5 minutes.",
+        "Add cooked fettuccine to the skillet and toss until evenly coated with the mushroom cream sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with chopped fresh parsley if desired."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "25 minutes",
+      "servings": 4,
+      "id": "4731"
+    },
+    {
+      "title": "Pasta with Bolognese Sauce",
+      "author": "Francesco Ricci",
+      "description": "A hearty pasta dish with a rich and meaty Bolognese sauce.",
+      "category": "Pasta",
+      "ingredients": [
+        "8 ounces spaghetti",
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "2 carrots, chopped",
+        "2 celery stalks, chopped",
+        "2 cloves garlic, minced",
+        "1 pound ground beef",
+        "1 (28 ounce) can crushed tomatoes",
+        "1/2 cup beef broth",
+        "1/4 cup red wine",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "Salt and freshly ground black pepper, to taste",
+        "Grated Parmesan cheese, for serving"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta water; drain well.",
+        "In a large skillet, heat olive oil over medium heat. Add chopped onion, carrots, and celery. Cook until vegetables are softened, about 5-7 minutes.",
+        "Add minced garlic to the skillet and cook until fragrant, about 1 minute.",
+        "Add ground beef to the skillet and cook until browned, breaking it up into crumbles with a spoon.",
+        "Stir in crushed tomatoes, beef broth, red wine, oregano, and basil. Bring to a simmer and cook for 20 minutes, stirring occasionally.",
+        "Add cooked spaghetti to the skillet and toss until evenly coated with the Bolognese sauce. If the sauce is too thick, add reserved pasta water, 1 tablespoon at a time, until desired consistency is reached.",
+        "Season with salt and pepper to taste. Serve immediately, garnished with grated Parmesan cheese."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "50 minutes",
+      "servings": 4,
+      "id": "4732"
+    }
+  ],
+  "users": [
+    {
+      "username": "user 1",
+      "password": "123",
+      "id": "2206",
+      "favRecipes": []
+    },
+    {
+      "id": "be74",
+      "username": "manish",
+      "password": "123",
+      "favRecipes": []
+    },
+    {
+      "id": "f923",
+      "username": "Hema",
+      "password": "1234",
+      "favRecipes": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<div
+  class="h-screen z-50 bg-dark-maroon text-white w-1/2 space-y-6 py-7 px-2 inset-y-0 left-0 transform transition-all duration-150 ease-in flex-col justify-start items-center flex fixed top-0"
+  [class.translate-x-full]="!isOpen"
+  (clickOutside)="closeMenu()"
+>
+  <!-- Your menu items -->
+
+  <ul
+    class="flex-col flex justify-center items-center gap-5 text-light-peach font-poppins text-xl w-full"
+  >
+    <li
+      class="cursor-pointer w-full flex justify-center rounded-lg p-2"
+      [ngClass]="{ underline: shouldShowUnderline('/home') }"
+      routerLink="/home"
+    >
+      Home
+    </li>
+    <li
+      class="cursor-pointer"
+      routerLink="/myrecipes"
+      [ngClass]="{ underline: shouldShowUnderline('/myrecipes') }"
+    >
+      My Recipes
+    </li>
+    <li
+      class="cursor-pointer"
+      routerLink="/profile"
+      [ngClass]="{ underline: shouldShowUnderline('/profile') }"
+    >
+      Profile
+    </li>
+  </ul>
+  <div class="flex justify-center">
+    <button
+      class="bg-soft-maroon shadow-md shadow-dark-maroon p-2 rounded-md text-dark-maroon font-semibold"
+      (click)="onLogout()"
+    >
+      Log Out
+    </button>
+  </div>
+</div>

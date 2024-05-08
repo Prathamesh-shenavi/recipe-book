@@ -1,0 +1,66 @@
+<app-menu-drawer class="md:hidden" #menuDrawer />
+<div class="z-40 shadow-md shadow-dark-maroon w-full mb-3 fixed opacity-95">
+
+  <div class="bg-light-maroon flex justify-evenly p-3">
+    <div class="flex justify-start flex-1">
+      <h1
+        class="text-light-peach text-3xl font-ConcertOne cursor-pointer"
+        routerLink="/home"
+      >
+        Recipe Book
+      </h1>
+    </div>
+
+    
+    <div class="flex md:hidden w-10 justify-center">
+      <button
+        class="w-full bg-soft-maroon shadow-md shadow-dark-maroon rounded-md text-dark-maroon font-semibold text-xl cursor-pointer"
+        id="menuToggle"
+        (click)="menuDrawer.toggleMenu()"
+      >
+        <i class="fa fa-bars" aria-hidden="true"></i>
+      </button>
+    </div>
+    <ul
+      class="hidden md:flex flex-1 justify-center items-center gap-5 text-light-peach font-poppins text-xl"
+    >
+      <li
+        class="cursor-pointer"
+        [ngClass]="{ underline: shouldShowUnderline('/home') }"
+        routerLink="/home"
+      >
+        Home
+      </li>
+      <li
+        class="cursor-pointer"
+        routerLink="/myrecipes"
+        [ngClass]="{ underline: shouldShowUnderline('/myrecipes') }"
+      >
+        My Recipes
+      </li>
+       <li
+        class="cursor-pointer"
+        routerLink="/profile"
+        [ngClass]="{ underline: shouldShowUnderline('/profile') }"
+      >
+        Profile
+      </li>
+      <!-- <li
+      class="cursor-pointer"
+      routerLink="/home/favrecipes"
+      [ngClass]="{ underline: shouldShowUnderline('/home/favrecipes') }"
+    >
+      Favorite Recipes
+    </li> -->
+    </ul>
+    <div class="hidden md:flex flex-1 justify-end">
+      <button
+        class="bg-soft-maroon shadow-md shadow-dark-maroon p-2 rounded-md text-dark-maroon font-semibold"
+        (click)="onLogout()"
+      >
+        Log Out
+      </button>
+    </div>
+  </div>
+</div>
+<router-outlet />
