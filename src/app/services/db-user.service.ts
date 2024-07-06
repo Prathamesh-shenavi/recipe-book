@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root',
 })
 export class DbUserService {
-  baseUrl = 'http://localhost:5000/api/users';
+  baseUrl = 'https://recipe-book-backend-au6o.onrender.com/api/users';
   constructor(private http: HttpClient) {}
   getUserById(id: string) {
     return this.http.get(`${this.baseUrl}/${id}`);
@@ -17,6 +17,6 @@ export class DbUserService {
     return this.http.post(`${this.baseUrl}`, user);
   }
   updateUser(user: any) {
-    return this.http.put(`${this.baseUrl}/${user.id}`,user)
+    return this.http.put(`${this.baseUrl}/${user.id}`, user);
   }
 }

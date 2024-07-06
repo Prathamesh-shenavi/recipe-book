@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root',
 })
 export class DbRecipeService {
-  baseURL = 'http://localhost:5000/api/recipes';
+  baseURL = 'https://recipe-book-backend-au6o.onrender.com/api/recipes';
   constructor(private http: HttpClient) {}
   getAllRecipes() {
     return this.http.get(this.baseURL);
@@ -25,7 +25,7 @@ export class DbRecipeService {
   deletRecipe(id: any) {
     return this.http.delete(`${this.baseURL}/${id}`);
   }
-  updateRecipe( recipe: any) {
+  updateRecipe(recipe: any) {
     return this.http.put(`${this.baseURL}/${recipe._id}`, recipe);
   }
 }
