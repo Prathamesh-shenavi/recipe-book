@@ -5,13 +5,13 @@ import { Injectable } from '@angular/core';
   providedIn: 'root',
 })
 export class DbUserService {
-  baseUrl = 'http://localhost:3000/users';
+  baseUrl = 'http://localhost:5000/api/users';
   constructor(private http: HttpClient) {}
   getUserById(id: string) {
     return this.http.get(`${this.baseUrl}/${id}`);
   }
   getUserByUserName(username: string) {
-    return this.http.get(`${this.baseUrl}?username=${username}`);
+    return this.http.get(`${this.baseUrl}/${username}`);
   }
   addUser(user: any) {
     return this.http.post(`${this.baseUrl}`, user);

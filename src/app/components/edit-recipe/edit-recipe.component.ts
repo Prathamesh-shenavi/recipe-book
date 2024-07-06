@@ -53,6 +53,7 @@ export class EditRecipeComponent {
       if (id) {
         this.recipeService.getRecipeById(id).subscribe((data) => {
           this.recipeData = data;
+          this.recipeData = this.recipeData.data;
           console.log(this.recipeData, 'recipe data fetched');
         });
       }
@@ -71,6 +72,8 @@ export class EditRecipeComponent {
     formObj.total_time = `${tTime}`;
     this.recipeData.total_time = tTime;
     this.recipeService.updateRecipe(this.recipeData).subscribe((recipe) => {
+      console.log(recipe);
+      
       console.log(recipe, 'updated recipe');
     });
     if (this.isAdmin) {

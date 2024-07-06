@@ -53,10 +53,14 @@ export class AddRecipeComponent {
     // formObj.ingredientItem = null;
     // formObj.instruction = null;
     let tTime = formObj.prep_time + formObj.cook_time;
-    formObj.total_time = `${tTime} minutes`;
+    formObj.total_time = `${tTime}`;
     this.recipeService.addRecipe(formObj).subscribe((recipe) => {
+      console.log(recipe, 'adding rec');
+
       console.log(recipe);
     });
+
+
     if (this.isAdmin) {
       this.router.navigate(['/home']);
     } else this.router.navigate(['/myrecipes']);

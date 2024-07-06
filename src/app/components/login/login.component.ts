@@ -24,12 +24,14 @@ export class LoginComponent {
     this.dbUserService
       .getUserByUserName(this.uname)
       .subscribe((dbUsers: any[any]) => {
-        console.log(dbUsers[0], 'dbuser');
-        const dbUser: any = dbUsers[0];
+        console.log(dbUsers, 'dbusers');
+        const dbUser: any = dbUsers.data.user;
+        const id:string = dbUser._id;
+        console.log(dbUser, 'dbuser');
         if (this.upass != dbUser?.password) {
           alert('Invalid Credentials');
         } else {
-          this.loginService.login(this.uname, this.upass);
+          this.loginService.login(this.uname, this.upass, id);
           this.router.navigate(['/home']);
         }
       });
@@ -40,7 +42,6 @@ export class LoginComponent {
     const user = {
       username: this.uname,
       password: this.upass,
-      favRecipes: [],
     };
     this.dbUserService.getUserByUserName(this.uname).subscribe((uname) => {
       const names: any = uname;

@@ -32,7 +32,7 @@
       *ngIf="recipes?.length > 0"
       class="p-5 flex h-fit flex-col justify-evenly items-center w-full md:flex-row md:justify-center flex-wrap gap-5 md:gap-5"
     >
-      @for (recipe of recipes; track recipe.id ) {
+      @for (recipe of recipes; track recipe._id ) {
       <div
         class="bg-light-maroon flex flex-col md:w-64 md:m-2 cursor-pointer h-56 shadow-md shadow-dark-maroon relative rounded-se-3xl rounded-bl-3xl object-cover animate-fade-down animate-once delay-[300ms] duration-[600ms] taos:translate-x-[-200px] taos:opacity-0 w-full"
         data-taos-offset="400"
@@ -44,7 +44,7 @@
         ></div>
         <div
           class="p-2 flex flex-1 text-white text-ellipsis text-4xl font-bold shadow- shadow-dark-maroon rounded-se-3xl inset-0 absolute"
-          [routerLink]="['recipe', recipe.id]"
+          [routerLink]="['recipe', recipe._id]"
         >
           {{ recipe.title }}
         </div>
@@ -58,10 +58,10 @@
           *ngIf="router.url == '/myrecipes' || uname == 'admin'"
           class="bg-light-maroon justify-center font-poppins p-2 flex-2 flex items-center gap-5 md:text-md bottom-0 text-xl right-12 md:right-0 absolute text-light-peach"
         >
-          <button (click)="editRecipe(recipe.id)">
+          <button (click)="editRecipe(recipe._id)">
             <i class="fa fa-pencil" aria-hidden="true"></i>
           </button>
-          <button (click)="deleteRecipe(recipe.id)">
+          <button (click)="deleteRecipe(recipe._id)">
             <i class="fa fa-trash" aria-hidden="true"></i>
           </button>
         </div>

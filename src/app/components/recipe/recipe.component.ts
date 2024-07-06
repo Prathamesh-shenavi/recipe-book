@@ -36,15 +36,22 @@ export class RecipeComponent {
   ngOnInit(): void {
     const uname = window.sessionStorage.getItem('username');
     const upass = window.sessionStorage.getItem('password');
+    // const id = window.sessionStorage.getItem('password');
     this.uname = uname;
     this.upass = upass;
     this.actRoute.paramMap.subscribe((params) => {
       const id = params.get('id');
       if (id) {
+        console.log(id,'id');
+        
         this.recipeService.getRecipeById(id).subscribe((data) => {
           this.recipe = data;
+          this.recipe = this.recipe.data;
           console.log(this.recipe,'in rec');
         });
+      } else {
+        console.log('no id');
+        
       }
     });
   }

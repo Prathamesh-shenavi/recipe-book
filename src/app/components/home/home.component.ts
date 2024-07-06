@@ -24,12 +24,14 @@ export class HomeComponent {
     if (this.router.url == '/home') {
       this.recipeService.getAllRecipes().subscribe((recipes) => {
         this.recipes = recipes;
+        this.recipes = this.recipes.data;
         console.log(this.recipes, 'rec');
       });
     } else if (this.router.url == '/myrecipes') {
       if (uname) {
         this.recipeService.getRecipesByAuthor(uname).subscribe((recipes) => {
           this.recipes = recipes;
+          this.recipes = this.recipes.data;
           console.log(this.recipes, 'myrec');
         });
       }
@@ -47,12 +49,16 @@ export class HomeComponent {
           this.recipeService
             .getRecipesByAuthor(this.uname)
             .subscribe((recipes) => {
+              console.log(recipes);
+
               this.recipes = recipes;
+              this.recipes = this.recipes.data;
               console.log(this.recipes, 'myrec');
             });
         } else if (this.uname && this.router.url == '/home') {
           this.recipeService.getAllRecipes().subscribe((recipes) => {
             this.recipes = recipes;
+            this.recipes = this.recipes.data;
             console.log(this.recipes, 'rec');
           });
         }

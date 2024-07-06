@@ -6,13 +6,15 @@ import { Router } from '@angular/router';
 })
 export class LoginService {
   constructor(private route: Router) {}
-  login(username:string, password:string) {
+  login(username: string, password: string, id: string) {
     sessionStorage.setItem('username', username);
     sessionStorage.setItem('password', password);
+    sessionStorage.setItem('id', id);
   }
   logout() {
     sessionStorage.removeItem('username');
     sessionStorage.removeItem('password');
+    sessionStorage.removeItem('id');
     this.route.navigate(['/']);
   }
 }
