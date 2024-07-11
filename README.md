@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## How to use it ?
-😉 Just hit this URL: https://recipe-book-tau-woad.vercel.app/
+😉 Just hit this URL: https://recipe-book-tau-woad.vercel.app/ or this one https://recipe-book-tp7b.onrender.com
 
 ## Screenshots
 
